@@ -14,3 +14,6 @@
 ## Other
 - [Registrar Forms](https://www.easternct.edu/registrar/forms-policies-procedures.html)
 
+## Job Information
+- [PSEO Explorer](https://lehd.ces.census.gov/applications/pseo/?type=earnings&specificity=2&state=09&institution=00142500&degreelevel=05&gradcohort=0000-3&filter=50&program=11&compare=postgrad)
+
